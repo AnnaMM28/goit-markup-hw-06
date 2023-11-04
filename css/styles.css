@@ -717,7 +717,7 @@ body {
   justify-content: center;
   fill: transparent;
 }
-.div-policy input[type="checkbox"]:checked + .span-checkbox {
+.div-policy input[type="checkbox"]:checked + .label-policy .span-checkbox {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
